@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "40tgGlrws34Bn3Gj1QGOcqI1gNdd/57IeMXTmlAOrXexwKmR9aQ3Au1Qd0SWl0b7fIgNtBfiG2eJWi3XJtJgWw==",
+  "dgSpecHash": "QH2Gttlw7vvmgm/1idbUVJESjaxebiqIkbOOl9S1QAX6lOHPH+od/97icOzNXKyhL5bS0INtLoXeh8H8nS3PGg==",
   "success": true,
-  "projectFilePath": "D:\\Универ\\3 Курс 6 семестр\\Розробка додатків на основі платформі .NET\\MSA\\MSA\\Microservices\\CatalogAPI\\CatalogAPI.csproj",
+  "projectFilePath": "D:\\Uni\\3rd\\dotNet\\GitHub\\MSA\\MSA\\Microservices\\CatalogAPI\\CatalogAPI.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
