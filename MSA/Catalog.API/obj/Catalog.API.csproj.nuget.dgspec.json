@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Универ\\3 Курс 6 семестр\\Розробка додатків на основі платформі .NET\\MSA\\MSA\\Catalog.API\\Catalog.API.csproj": {}
+    "D:\\Uni\\3rd\\dotNet\\GitHub\\MSA\\MSA\\Catalog.API\\Catalog.API.csproj": {}
   },
   "projects": {
-    "D:\\Универ\\3 Курс 6 семестр\\Розробка додатків на основі платформі .NET\\MSA\\MSA\\Catalog.API\\Catalog.API.csproj": {
+    "D:\\Uni\\3rd\\dotNet\\GitHub\\MSA\\MSA\\Catalog.API\\Catalog.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Универ\\3 Курс 6 семестр\\Розробка додатків на основі платформі .NET\\MSA\\MSA\\Catalog.API\\Catalog.API.csproj",
+        "projectUniqueName": "D:\\Uni\\3rd\\dotNet\\GitHub\\MSA\\MSA\\Catalog.API\\Catalog.API.csproj",
         "projectName": "Catalog.API",
-        "projectPath": "D:\\Универ\\3 Курс 6 семестр\\Розробка додатків на основі платформі .NET\\MSA\\MSA\\Catalog.API\\Catalog.API.csproj",
-        "packagesPath": "C:\\Users\\playe\\.nuget\\packages\\",
-        "outputPath": "D:\\Универ\\3 Курс 6 семестр\\Розробка додатків на основі платформі .NET\\MSA\\MSA\\Catalog.API\\obj\\",
+        "projectPath": "D:\\Uni\\3rd\\dotNet\\GitHub\\MSA\\MSA\\Catalog.API\\Catalog.API.csproj",
+        "packagesPath": "C:\\Users\\Shizuruki\\.nuget\\packages\\",
+        "outputPath": "D:\\Uni\\3rd\\dotNet\\GitHub\\MSA\\MSA\\Catalog.API\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\playe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Shizuruki\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -29,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -40,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -58,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
