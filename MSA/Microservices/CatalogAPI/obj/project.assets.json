@@ -8,19 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Shizuruki\\.nuget\\packages\\": {}
+    "C:\\Users\\playe\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Uni\\3rd\\dotNet\\GitHub\\MSA\\MSA\\Microservices\\CatalogAPI\\CatalogAPI.csproj",
+      "projectUniqueName": "D:\\Универ\\3 Курс 6 семестр\\Розробка додатків на основі платформі .NET\\MSA\\MSA\\Microservices\\CatalogAPI\\CatalogAPI.csproj",
       "projectName": "CatalogAPI",
-      "projectPath": "D:\\Uni\\3rd\\dotNet\\GitHub\\MSA\\MSA\\Microservices\\CatalogAPI\\CatalogAPI.csproj",
-      "packagesPath": "C:\\Users\\Shizuruki\\.nuget\\packages\\",
-      "outputPath": "D:\\Uni\\3rd\\dotNet\\GitHub\\MSA\\MSA\\Microservices\\CatalogAPI\\obj\\",
+      "projectPath": "D:\\Универ\\3 Курс 6 семестр\\Розробка додатків на основі платформі .NET\\MSA\\MSA\\Microservices\\CatalogAPI\\CatalogAPI.csproj",
+      "packagesPath": "C:\\Users\\playe\\.nuget\\packages\\",
+      "outputPath": "D:\\Универ\\3 Курс 6 семестр\\Розробка додатків на основі платформі .NET\\MSA\\MSA\\Microservices\\CatalogAPI\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Shizuruki\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\playe\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -32,7 +36,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -44,7 +47,6 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
-        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -63,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
