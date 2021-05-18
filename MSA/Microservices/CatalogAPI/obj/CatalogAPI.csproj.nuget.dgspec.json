@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Uni\\3rd\\dotNet\\GitHub\\MSA\\MSA\\MONOLIT\\MONOLIT.csproj": {}
+    "D:\\Uni\\3rd\\dotNet\\GitHub\\MSA\\MSA\\Microservices\\CatalogAPI\\CatalogAPI.csproj": {}
   },
   "projects": {
-    "D:\\Uni\\3rd\\dotNet\\GitHub\\MSA\\MSA\\MONOLIT\\MONOLIT.csproj": {
+    "D:\\Uni\\3rd\\dotNet\\GitHub\\MSA\\MSA\\Microservices\\CatalogAPI\\CatalogAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Uni\\3rd\\dotNet\\GitHub\\MSA\\MSA\\MONOLIT\\MONOLIT.csproj",
-        "projectName": "MONOLIT",
-        "projectPath": "D:\\Uni\\3rd\\dotNet\\GitHub\\MSA\\MSA\\MONOLIT\\MONOLIT.csproj",
+        "projectUniqueName": "D:\\Uni\\3rd\\dotNet\\GitHub\\MSA\\MSA\\Microservices\\CatalogAPI\\CatalogAPI.csproj",
+        "projectName": "CatalogAPI",
+        "projectPath": "D:\\Uni\\3rd\\dotNet\\GitHub\\MSA\\MSA\\Microservices\\CatalogAPI\\CatalogAPI.csproj",
         "packagesPath": "C:\\Users\\Shizuruki\\.nuget\\packages\\",
-        "outputPath": "D:\\Uni\\3rd\\dotNet\\GitHub\\MSA\\MSA\\MONOLIT\\obj\\",
+        "outputPath": "D:\\Uni\\3rd\\dotNet\\GitHub\\MSA\\MSA\\Microservices\\CatalogAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Shizuruki\\AppData\\Roaming\\NuGet\\NuGet.Config",
