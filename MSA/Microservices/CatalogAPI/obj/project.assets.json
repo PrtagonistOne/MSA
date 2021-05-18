@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Универ\\3 Курс 6 семестр\\Розробка додатків на основі платформі .NET\\MSA\\MSA\\MONOLIT\\Catalog.API.csproj",
-      "projectName": "Catalog.API",
-      "projectPath": "D:\\Универ\\3 Курс 6 семестр\\Розробка додатків на основі платформі .NET\\MSA\\MSA\\MONOLIT\\Catalog.API.csproj",
+      "projectUniqueName": "D:\\Универ\\3 Курс 6 семестр\\Розробка додатків на основі платформі .NET\\MSA\\MSA\\Microservices\\CatalogAPI\\CatalogAPI.csproj",
+      "projectName": "CatalogAPI",
+      "projectPath": "D:\\Универ\\3 Курс 6 семестр\\Розробка додатків на основі платформі .NET\\MSA\\MSA\\Microservices\\CatalogAPI\\CatalogAPI.csproj",
       "packagesPath": "C:\\Users\\playe\\.nuget\\packages\\",
-      "outputPath": "D:\\Универ\\3 Курс 6 семестр\\Розробка додатків на основі платформі .NET\\MSA\\MSA\\MONOLIT\\obj\\",
+      "outputPath": "D:\\Универ\\3 Курс 6 семестр\\Розробка додатків на основі платформі .NET\\MSA\\MSA\\Microservices\\CatalogAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

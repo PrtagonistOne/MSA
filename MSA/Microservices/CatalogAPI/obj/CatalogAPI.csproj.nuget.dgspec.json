@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Универ\\3 Курс 6 семестр\\Розробка додатків на основі платформі .NET\\MSA\\MSA\\MONOLIT\\MONOLIT.csproj": {}
+    "D:\\Универ\\3 Курс 6 семестр\\Розробка додатків на основі платформі .NET\\MSA\\MSA\\Microservices\\CatalogAPI\\CatalogAPI.csproj": {}
   },
   "projects": {
-    "D:\\Универ\\3 Курс 6 семестр\\Розробка додатків на основі платформі .NET\\MSA\\MSA\\MONOLIT\\MONOLIT.csproj": {
+    "D:\\Универ\\3 Курс 6 семестр\\Розробка додатків на основі платформі .NET\\MSA\\MSA\\Microservices\\CatalogAPI\\CatalogAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Универ\\3 Курс 6 семестр\\Розробка додатків на основі платформі .NET\\MSA\\MSA\\MONOLIT\\MONOLIT.csproj",
-        "projectName": "MONOLIT",
-        "projectPath": "D:\\Универ\\3 Курс 6 семестр\\Розробка додатків на основі платформі .NET\\MSA\\MSA\\MONOLIT\\MONOLIT.csproj",
+        "projectUniqueName": "D:\\Универ\\3 Курс 6 семестр\\Розробка додатків на основі платформі .NET\\MSA\\MSA\\Microservices\\CatalogAPI\\CatalogAPI.csproj",
+        "projectName": "CatalogAPI",
+        "projectPath": "D:\\Универ\\3 Курс 6 семестр\\Розробка додатків на основі платформі .NET\\MSA\\MSA\\Microservices\\CatalogAPI\\CatalogAPI.csproj",
         "packagesPath": "C:\\Users\\playe\\.nuget\\packages\\",
-        "outputPath": "D:\\Универ\\3 Курс 6 семестр\\Розробка додатків на основі платформі .NET\\MSA\\MSA\\MONOLIT\\obj\\",
+        "outputPath": "D:\\Универ\\3 Курс 6 семестр\\Розробка додатків на основі платформі .NET\\MSA\\MSA\\Microservices\\CatalogAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
