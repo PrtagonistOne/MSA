@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30204.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MVC", "MVC", "{5997C918-E691-4B90-B3F0-996772794D53}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{5997C918-E691-4B90-B3F0-996772794D53}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MONOLIT", "MONOLIT\MONOLIT.csproj", "{5A2AA3B5-BF1F-4CDA-B223-49A51AE3A325}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MONOLIT", "MONOLIT\MONOLIT.csproj", "{5A2AA3B5-BF1F-4CDA-B223-49A51AE3A325}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Catalog", "Catalog", "{00FFD345-CC64-444D-8B4D-2658C97330E7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -22,7 +24,8 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{5A2AA3B5-BF1F-4CDA-B223-49A51AE3A325} = {5997C918-E691-4B90-B3F0-996772794D53}
+		{5A2AA3B5-BF1F-4CDA-B223-49A51AE3A325} = {00FFD345-CC64-444D-8B4D-2658C97330E7}
+		{00FFD345-CC64-444D-8B4D-2658C97330E7} = {5997C918-E691-4B90-B3F0-996772794D53}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {58C27E2C-4776-4463-9704-CCB89E251DC4}
