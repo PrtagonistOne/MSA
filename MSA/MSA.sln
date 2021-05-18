@@ -9,6 +9,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MONOLIT", "MONOLIT\MONOLIT.
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Catalog", "Catalog", "{00FFD345-CC64-444D-8B4D-2658C97330E7}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Microservices", "Microservices", "{2EC00E50-1663-44A5-8886-BB9F4C1D1AD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatalogAPI", "Microservices\CatalogAPI\CatalogAPI.csproj", "{FD4F9155-AC19-4D18-BE61-A2784FB73FED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +23,10 @@ Global
 		{5A2AA3B5-BF1F-4CDA-B223-49A51AE3A325}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5A2AA3B5-BF1F-4CDA-B223-49A51AE3A325}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5A2AA3B5-BF1F-4CDA-B223-49A51AE3A325}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD4F9155-AC19-4D18-BE61-A2784FB73FED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD4F9155-AC19-4D18-BE61-A2784FB73FED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD4F9155-AC19-4D18-BE61-A2784FB73FED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD4F9155-AC19-4D18-BE61-A2784FB73FED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -26,6 +34,8 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{5A2AA3B5-BF1F-4CDA-B223-49A51AE3A325} = {00FFD345-CC64-444D-8B4D-2658C97330E7}
 		{00FFD345-CC64-444D-8B4D-2658C97330E7} = {5997C918-E691-4B90-B3F0-996772794D53}
+		{2EC00E50-1663-44A5-8886-BB9F4C1D1AD6} = {5997C918-E691-4B90-B3F0-996772794D53}
+		{FD4F9155-AC19-4D18-BE61-A2784FB73FED} = {2EC00E50-1663-44A5-8886-BB9F4C1D1AD6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {58C27E2C-4776-4463-9704-CCB89E251DC4}
