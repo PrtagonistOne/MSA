@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Универ\\3 Курс 6 семестр\\Розробка додатків на основі платформі .NET\\MSA\\MSA\\MONOLIT\\MONOLIT.csproj",
-      "projectName": "MONOLIT",
-      "projectPath": "D:\\Универ\\3 Курс 6 семестр\\Розробка додатків на основі платформі .NET\\MSA\\MSA\\MONOLIT\\MONOLIT.csproj",
+      "projectUniqueName": "D:\\Универ\\3 Курс 6 семестр\\Розробка додатків на основі платформі .NET\\MSA\\MSA\\MONOLIT\\Catalog.API.csproj",
+      "projectName": "Catalog.API",
+      "projectPath": "D:\\Универ\\3 Курс 6 семестр\\Розробка додатків на основі платформі .NET\\MSA\\MSA\\MONOLIT\\Catalog.API.csproj",
       "packagesPath": "C:\\Users\\playe\\.nuget\\packages\\",
       "outputPath": "D:\\Универ\\3 Курс 6 семестр\\Розробка додатків на основі платформі .NET\\MSA\\MSA\\MONOLIT\\obj\\",
       "projectStyle": "PackageReference",
