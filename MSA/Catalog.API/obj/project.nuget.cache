@@ -1,8 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "29BmTSPXdTs82aYO+CDXRwcsLuPiw1IwCebvoMtd9HlBT9AXasAzTi873yQC0eobLlogixdh9bjS+jlo5HUSeQ==",
+  "dgSpecHash": "b0+141AxIz1KVoCzRl4i/iBY9ugvbz7ZPJCCL5QW/cL0RKWqhhG9kK07Pwb1lXdmruZ0wZALfU7IgxTTaggr/g==",
   "success": true,
-  "projectFilePath": "D:\\Uni\\3rd\\dotNet\\GitHub\\MSA\\MSA\\Catalog.API\\Catalog.API.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Универ\\3 Курс 6 семестр\\Розробка додатків на основі платформі .NET\\MSA\\MSA\\Catalog.API\\Catalog.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\playe\\.nuget\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",
+    "C:\\Users\\playe\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
+    "C:\\Users\\playe\\.nuget\\packages\\mongodb.bson\\2.12.3\\mongodb.bson.2.12.3.nupkg.sha512",
+    "C:\\Users\\playe\\.nuget\\packages\\mongodb.driver\\2.12.3\\mongodb.driver.2.12.3.nupkg.sha512",
+    "C:\\Users\\playe\\.nuget\\packages\\mongodb.driver.core\\2.12.3\\mongodb.driver.core.2.12.3.nupkg.sha512",
+    "C:\\Users\\playe\\.nuget\\packages\\mongodb.libmongocrypt\\1.2.1\\mongodb.libmongocrypt.1.2.1.nupkg.sha512",
+    "C:\\Users\\playe\\.nuget\\packages\\sharpcompress\\0.23.0\\sharpcompress.0.23.0.nupkg.sha512",
+    "C:\\Users\\playe\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\playe\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\playe\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1\\system.text.encoding.codepages.4.5.1.nupkg.sha512"
+  ],
   "logs": []
 }
