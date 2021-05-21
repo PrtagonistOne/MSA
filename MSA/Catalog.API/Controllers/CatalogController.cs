@@ -10,8 +10,7 @@ using System.Net;
 
 namespace Catalog.API.Controllers
 {
-    [ApiController]
-    [Route("[controller]")]
+    [Route("api/[controller]")]
     public class CatalogController : ControllerBase
     {
         private readonly IGroupOfDetailRepository _groupOfDetailRepository;

@@ -167,6 +167,19 @@
             "rid": "win"
           }
         }
+      },
+      "WebApp/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/WebApp.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WebApp.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       }
     }
   },
@@ -441,11 +454,17 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "WebApp/1.0.0": {
+      "type": "project",
+      "path": "../WebApp/WebApp.csproj",
+      "msbuildProject": "../WebApp/WebApp.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "MongoDB.Driver >= 2.12.3"
+      "MongoDB.Driver >= 2.12.3",
+      "WebApp >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -477,7 +496,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Универ\\3 Курс 6 семестр\\Розробка додатків на основі платформі .NET\\MSA\\MSA\\WebApp\\WebApp.csproj": {
+              "projectPath": "D:\\Универ\\3 Курс 6 семестр\\Розробка додатків на основі платформі .NET\\MSA\\MSA\\WebApp\\WebApp.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
