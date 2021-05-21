@@ -7,10 +7,10 @@ using Catalog.API.Entities;
 
 namespace Catalog.API.Data.Interfaces
 {
-    interface ICatalogContext
+    public interface ICatalogContext
     {
-        IMongoCollection<Detail> Details { get; }
-        IMongoCollection<GroupOfDetail> GroupOfDetails { get; }
+        IMongoCollection<Detail> Detail { get; }
+        IMongoCollection<GroupOfDetail> GroupOfDetail { get; }
 
     }
 }

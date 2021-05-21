@@ -11,8 +11,8 @@ namespace Catalog.API.Data
     {
 
 
-        public IMongoCollection<Detail> Details { get; }
-        public IMongoCollection<GroupOfDetail> GroupOfDetails { get; }
+        public IMongoCollection<Detail> Detail { get; }
+        public IMongoCollection<GroupOfDetail> GroupOfDetail { get; }
 
 
     }

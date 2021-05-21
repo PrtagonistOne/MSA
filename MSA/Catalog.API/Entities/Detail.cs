@@ -7,7 +7,7 @@ namespace Catalog.API.Entities
 {
     public class Detail
     {
-        public int Id { get; set; }
+        public string Id { get; set; }
         public int GroupOfDetailId { get; set; }
         public double Price { get; set; }
         public string Description { get; set; }
