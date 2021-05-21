@@ -6,7 +6,7 @@ namespace Catalog.API.Repositories.Interfaces
 {
     public interface IGroupOfDetailRepository
     {
-        Task<IEnumerable<GroupOfDetail>> GetProducts();
+        Task<IEnumerable<GroupOfDetail>> GetGroupOfDetails();
 
         Task CreateGroupOfDetail (GroupOfDetail detail);
         Task<bool> UpdateGroupOfDetail (GroupOfDetail detail);

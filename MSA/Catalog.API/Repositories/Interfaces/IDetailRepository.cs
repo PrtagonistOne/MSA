@@ -6,7 +6,7 @@ namespace Catalog.API.Repositories.Interfaces
 {
     public interface IDetailRepository
     {
-        Task<IEnumerable<Detail>> GetProducts();
+        Task<IEnumerable<Detail>> GetDetails();
 
         Task CreateDetail (Detail detail);
         Task<bool> UpdateDetail (Detail detail);
